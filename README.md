@@ -1,4 +1,6 @@
 # hello-world
 Testing Github
 
-Hi, I'm Philippe Ilharreguy
+Hi, I'm Philippe Ilharreguy.
+
+Bye!
